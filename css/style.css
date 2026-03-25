@@ -139,6 +139,10 @@ footer .email a {
     gap: 10px;
   }
 
+.nav-links.active {
+  display: block;
+}
+
   .home {
     flex-direction: column;
     text-align: center;
