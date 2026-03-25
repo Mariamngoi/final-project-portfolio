@@ -3,7 +3,7 @@
 This is my perrsonal web develpment portfolio which shows my projects skills and contact inforrmation
 
 ## get my live site at 
-
+https://mariamngoi.github.io/final-project-portfolio/
 ## Project structure
 Final-web-project/
 |---index.html
@@ -25,7 +25,7 @@ Final-web-project/
 -js
 -icons
 ## clone to preview it
--git clone 
+-git clone https://github.com/Mariamngoi/final-project-portfolio
 -open in code editor
 -update where neede
 -push changes to Github
