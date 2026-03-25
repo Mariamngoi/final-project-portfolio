@@ -111,7 +111,9 @@ footer .email a {
   color: #38bdf8;
   text-decoration: none;
 }
-
+ footer .email a:hover{
+text-decoration: underline;
+ }
 .social-icons {
   margin-top: 10px;
 }
